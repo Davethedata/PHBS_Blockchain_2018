@@ -190,7 +190,7 @@ First-layer solution needs changes to be made on the codebase of the actual bloc
 
 Some examples of first layer solutions include increasing the block size limit from 1MB to 10 MB or reducing the block creation time from 10 minutes to 5 minutes. It is important to note that any structural or fundamental change to the property of a blockchain needs a hard fork. This requires the entire community to transit into a new and improved chain.
 
-**Here are 3 on-Chain solution examples:**
+—Here are 3 on-Chain solution examples:
 
 [Segregated Witness (Segwit)](https://en.wikipedia.org/wiki/SegWit)  
 [Sharding](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)  
@@ -202,7 +202,7 @@ Second-layer scalability solutions refer to secondary protocols built on top of 
 
 Ultimately, the thinking is that not every small transaction necessarily has to take place on the chain, rather the chain can be regularly updated to reflect balances. Taking transactions away from the main blockchain alleviates the stress on it.
 
-**Here are 2 off-Chain solution examples:**
+—Here are 2 off-Chain solution examples:
 
 [Plasma](http://www.plasma.io/)  
 [Lightning Network](https://en.wikipedia.org/wiki/Lightning_Network)  
@@ -211,4 +211,14 @@ Ultimately, the thinking is that not every small transaction necessarily has to 
 
 Blockchain technology is a subset under the general Distributed Ledger Technology (DLT) due to its distributed architecture. There are other forms of distributed ledgers that do not use the same data structure of organizing information (transactions) into chained, sequential blocks. The most popular form of distributed ledgers is a technology called the [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph).The solutions use DAG include IOTA,NANO,Byteball.
 
+## Conclusion
+
+In big data era, data safety problem is gradually becoming a threatening problem of social safety.Frequent data breaches bring huge loss and social fluctuation.Blockchain can mitigate the data safety problem depending on its decentralization and immutablity.However, scalability becomes the most tough barrier to overcome for blockchain and there exists a trilemma among increasing scalability, staying decentralized and having immutabilty.The solution of this trilemma is the future of blockchain.
+
+We put up several solutions which are divided into two aspects.However, we think the structural change solutions may overwhelm algorithm solutions for reasons:
+
+
+—Algorithm solutions mostly base on digital currency, it may not apply to data storage better than changing blockchain's structure  
+—Algorithm solutions has omitted process to save time and this may lead to more problem than structural change  
+—Stuctural change solutions have more possbility to develop in the future.Coversely, Algorithm solutions can only work on the way of mining and reaching consensus  
 
