@@ -182,3 +182,33 @@ Variations of Proof-of-Capacity include **Proof-of-Storage** and **Proof-of-Spac
 
 Chipmaker Intel has come up with its own alternative consensus protocol called Proof-of-Elapsed-time. This system works similarly to proof of work, but consumes far less electricity.
 
+### From the aspect of structural change
+
+#### First-Layer Solutions（on-Chain）
+
+First-layer solution needs changes to be made on the codebase of the actual blockchain(also called on-Chain). This suggests improving the core features of the blockchain. 
+
+Some examples of first layer solutions include increasing the block size limit from 1MB to 10 MB or reducing the block creation time from 10 minutes to 5 minutes. It is important to note that any structural or fundamental change to the property of a blockchain needs a hard fork. This requires the entire community to transit into a new and improved chain.
+
+**Here are 3 on-Chain solution examples:**
+
+[Segregated Witness (Segwit)](https://en.wikipedia.org/wiki/SegWit)  
+[Sharding](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)  
+[Hard Fork](https://en.wikipedia.org/wiki/Fork_(blockchain)) 
+
+#### Second-Layer Solutions (Off-Chain)
+
+Second-layer scalability solutions refer to secondary protocols built on top of the main blockchain where transactions are ‘off-loaded’ from the main blockchain to save space and reduce network congestion. Second-layer solutions are usually in the form off side-chains and state-channels.
+
+Ultimately, the thinking is that not every small transaction necessarily has to take place on the chain, rather the chain can be regularly updated to reflect balances. Taking transactions away from the main blockchain alleviates the stress on it.
+
+**Here are 2 off-Chain solution examples:**
+
+[Plasma](http://www.plasma.io/)  
+[Lightning Network](https://en.wikipedia.org/wiki/Lightning_Network)  
+
+#### Scalable Distributed Ledgers
+
+Blockchain technology is a subset under the general Distributed Ledger Technology (DLT) due to its distributed architecture. There are other forms of distributed ledgers that do not use the same data structure of organizing information (transactions) into chained, sequential blocks. The most popular form of distributed ledgers is a technology called the [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph).The solutions use DAG include IOTA,NANO,Byteball.
+
+
