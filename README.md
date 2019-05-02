@@ -258,3 +258,12 @@ We put up several solutions which are divided into two aspects.However, we think
 —Algorithm solutions has omitted process to save time and this may lead to more problem than structural change  
 —Stuctural change solutions have more possbility to develop in the future.Coversely, Algorithm solutions can only work on the way of mining and reaching consensus  
 
+## Reference
+1.Croman, K., Decker, C., Eyal, I., Gencer, A.E., Juels, A., Kosba, A., Miller, A., Saxena, P., Shi, E., Gün, E.: On scaling decentralized blockchains. In: Proceedings of 3rd Workshop on Bitcoin and Blockchain Research (2016)  
+2.Decker, C., Wattenhofer, R.: A fast and scalable payment network with bitcoin duplex micropayment channels. In: Pelc, A., Schwarzmann, A.A. (eds.) SSS 2015. LNCS, vol. 9212, pp. 3–18. Springer, Heidelberg (2015)  
+3.Poon, J., Dryja, T.: The bitcoin lightning network: scalable off-chain instant payments. Technical report (draft). (2015)  
+4. Diego Ongaro and John Ousterhout. In Search of an Understandable Consensus Algorithm. In 2014 USENIX Annual Technical Conference (USENIX ATC 14), pages 305–319, 2014.   
+5. Melanie Swan. Blockchain: Blueprint for a New Economy. ” O’Reilly Media, Inc.”, 2015.  
+6.Trent McConaghy. Blockchain, Throughput, and Big Data. http://trent.st/content/ 2014-10-28%20mcconaghy%20-%20blockchain%20big%20data.pdf, October 2014. Berlin, Germany.   
+7.Vitalik Buterin. Slasher: A Punitive Proof-of-Stake Algorithm. https://blog.ethereum.org/ 2014/01/15/slasher-a-punitive-proof-of-stake-algorithm/, January, 15th 2014.  
+8. Vitalik Buterin. Scalability, Part 2: Hypercubes. https://blog.ethereum.org/2014/10/21/ scalability-part-2-hypercubes/, October, 21st 2014.   
