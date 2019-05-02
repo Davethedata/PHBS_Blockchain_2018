@@ -1,4 +1,4 @@
-# How to use blockchain to protect data safety more efficiently?——————Discussion in aspect of how to solve blockchain trilemma
+# How to use blockchain to protect data safety more efficiently?————Discussion in aspect of how to solve blockchain trilemma
 ## Background
 
 In big data era, privacy data safety gradually draws public attention. We’re handing over more and more personal data to companies that store this information in **centralized** databases, which serve as a magnet for hackers looking to hijack our identities and steal our money.
@@ -37,7 +37,7 @@ The decentralized nature of blockchain, with all data replicated on every comput
 
 （图片）
 
-#### 2.Security——————Immutability
+#### 2.Security————Immutability
 
 Immutability guarantees that data cannot be altered once added to the blockchain. Immutability on the blockchain is powered by “proof of work” cryptographic processes that require huge amounts of computing power to add new information to the system, as well as an almost inconceivably high amount needed to “game” the system. For a hacker, if he wants to hijack our data, he only has to attack several computers in the centralized institution in the traditional situation. However, he has to attack 51% computers in the system using blockchain.
 
@@ -97,7 +97,7 @@ The only way that these numbers can be improved is if they work on their scalabi
 
 (图片）
 
-## Blockchain trilemma——————Decentralization, Security, Scalability
+## Blockchain trilemma————Decentralization, Security, Scalability
 
 A trilemma is a difficult choice from three options, each of which is (or appears) unacceptable or unfavourable. Many observe that blockchains have their own trilemma – one that is preventing mass adoption.
 
