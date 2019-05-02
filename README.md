@@ -26,3 +26,18 @@ The reason why our data are revealed is we **“trust”** those institutions an
 (图片）
 
 ### Two main features of blockchain related to data safety
+
+1.Decentralization
+
+Decentralization describes the design of a database that isn’t managed by a central party. Instead, **peer-to-peer** interaction drives the system, as no third party is needed.
+
+The decentralized nature of blockchain, with all data replicated on every computer node within the database, means that any hacker trying to attack a single node — the “trusted” centralised institution’s database — is thwarted by the continual processing and recording of data on the other nodes.
+
+（图片）
+
+2.Security------immutability
+
+Immutability guarantees that data cannot be altered once added to the blockchain. Immutability on the blockchain is powered by “proof of work” cryptographic processes that require huge amounts of computing power to add new information to the system, as well as an almost inconceivably high amount needed to “game” the system. For a hacker, if he wants to hijack our data, he only has to attack several computers in the centralized institution in the traditional situation. However, he has to attack 51% computers in the system using blockchain.
+
+（图片）
+
