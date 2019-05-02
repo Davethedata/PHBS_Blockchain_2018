@@ -112,7 +112,7 @@ Scalability will influence the speed of data input and access. In addition, it w
 
 ### Take credit card transaction as an example:
 
-For bitcoin and ethereum to compete with more popular systems like visa and paypal, they need to seriously step up their game when it comes to transaction times. While paypal manages 193 transactions per second and visa manages 1667 transactions per second, Ethereum does only 20 transactions per second while bitcoin manages a whopping 7 transactions per second!.
+For bitcoin and ethereum to compete with more popular systems like visa and paypal, they need to seriously step up their game when it comes to **transaction times**. While paypal manages **193 transactions per second** and visa manages **1667 transactions per second**, Ethereum does only **20 transactions per second** while bitcoin manages a whopping **7 transactions per second!**
 The only way that these numbers can be improved is if they work on their scalability.
 
  <div align="center">
