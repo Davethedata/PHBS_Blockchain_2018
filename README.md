@@ -115,7 +115,7 @@ Blockchain Trilemma is a term put up by Ethereum founder Vitalik Buterin that ad
 
 ### How do we annlyze blockchain trilemma logically?
 
-A briefly process of prove is shown as follows.For complete proof,please check:[Proof of blockchain trilemma]()
+A briefly process of prove is shown as follows.For complete proof,please check:[Proof of blockchain trilemma](https://news.8btc.com/why-it-is-impossible-to-solve-blockchain-trilemma)
 
 Firstly, we need to know two basic theories about distributed systems———FLP theory and CAP theory.
 
@@ -141,4 +141,44 @@ Then we combine these two trilemma together:
 （图片）
 
 We prove that the blockchain trilemma exists theoritically 
+
+## How to solve blockchain trilemma?———This leads to the future of blockchain
+
+Recently, a lot of solution have been created.We divide these solutions into two aspects———algorithm and structural change
+
+### From the aspect of algorithm 
+
+Traditional blockchain like bitcoin use PoW.However,creating a block and reaching consensus is time-consuming under PoW.Therefore, alternatives of PoW are created.
+
+#### Proof-of-Stake
+
+In proof of stake, your chance of being picked to create the next block depends on the number of coins in the system you have.Once a block is created, that block still needs to be committed to the blockchain. In some systems, every node in the system has to sign until **a majority vote is reached**, while in other systems, a **random** group of signers is chosen. In a word, the consensus process **save more time** compared to Proof-of-Work. 
+
+However, we still run into a problem———‘nothing-at-stake‘ problem. A participant with nothing to lose has no reason not to behave badly.
+
+#### Proof-of-Activity
+
+In proof of activity, mining is in an ordinary Proof-of-Work way, with miners trying to solve a difficult puzzle. Depending on the implementation, blocks mined do not contain any transactions, so the winning block will only contain a header and the miner’s reward address.**At this point**, the system switches to Proof-of-Stake. Based on information in the header, a **random** group of signer is chosen to sign the new block. The more coins in the system a miner owns, the more likely he or she is to be chosen.
+
+Criticisms of proof of activity are the same as for both proof of work (too much energy is required to mine blocks) and proof of stake (there is nothing to deter a validator from double signing).
+
+#### Proof-of-Burn
+
+With Proof-of-Burn, instead of pouring money into expensive computer equipment, you ‘burn’ coins by sending them to an address where they are irretrievable. In other words, you earn a lifetime privilege to mine on the system based on a random selection process.
+
+Depending on how Proof-of-Burn is implemented, miners may burn the native currency or the currency of an alternative chain, like bitcoin. The more coins you burn, the better chance you have of being selected to mine the next block.Eventually,you will want to burn more coins to increase your odds of being selected in the lottery. 
+
+While proof of burn is an interesting alternative to Proof-of-Work, the protocol still wastes resources needlessly. Another criticism is that mining power simply goes to those who are willing to burn more money.
+
+#### Proof-of-Capacity
+
+In Proof-of-Capacity,you ‘pay’ with storage space.The more storage space you have, the better your chance of mining the next block and earning the block reward.Prior to mining in a Proof-of-Capacity system, the algorithm generates large data sets known as ‘plots’, which you store on your hard drive. The more plots you have, the better your chance of finding the next block in the chain.
+
+But with Proof-of-Capacity, we still have the problem of nothing at stake to deter bad actors.
+
+Variations of Proof-of-Capacity include **Proof-of-Storage** and **Proof-of-Space**.
+
+####  Proof-of-Elapsed-time 
+
+Chipmaker Intel has come up with its own alternative consensus protocol called Proof-of-Elapsed-time. This system works similarly to proof of work, but consumes far less electricity.
 
