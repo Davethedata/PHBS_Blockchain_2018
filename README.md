@@ -96,3 +96,17 @@ For bitcoin and ethereum to compete with more popular systems like visa and payp
 The only way that these numbers can be improved is if they work on their scalability.
 
 (图片）
+
+## Blockchain trilemma------Decentralization, Security, Scalability
+
+A trilemma is a difficult choice from three options, each of which is (or appears) unacceptable or unfavourable. Many observe that blockchains have their own trilemma – one that is preventing mass adoption.
+
+The **ideal blockchain** would have all three of the characteristics：
+
+——Decentralization to build a trustless system  
+——Scalability to increase speed and efficiency  
+——Scalability to increase speed and efficiency  
+
+Unfortunately, **we can’t have them all**
+
+Blockchain Trilemma is a term put up by Ethereum founder Vitalik Buterin that addresses the problem of how to develop a blockchain technology that offers scalability, decentralization and security, without compromising either one.Vitalik believes that at a fundamental level, Blockchains can only **achieve 2 out of 3** of these traits at one time.
