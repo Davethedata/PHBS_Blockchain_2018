@@ -1,4 +1,5 @@
-# How to use blockchain to protect data safety more efficiently?------Discussion in aspect of how to solve blockchain trilemma
+# How to use blockchain to protect data safety more efficiently?
+##                                                          ------Discussion in aspect of how to solve blockchain trilemma
 ## Background
 
 In big data era, privacy data safety gradually draws public attention. We’re handing over more and more personal data to companies that store this information in **centralized** databases, which serve as a magnet for hackers looking to hijack our identities and steal our money.
