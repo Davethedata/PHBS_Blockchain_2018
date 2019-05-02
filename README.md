@@ -7,7 +7,7 @@ Recently, lots of data breach brings giant loss to the society. Globally, the **
 
 Let’s review the biggest one------**the Facebook data breach**.
 
-（图片）
+！(https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/FacebookDataBreach.jpg?raw=true)
 
 **March 18th, 2018:** 50 million Facebook profiles were harvested for Cambridge Analytica in a major data scandal. This number was revised to 87 million Facebook profiles later. Moveover, the data sold to Cambridge Analytica was then used to develop “psychographic” profiles of people and deliver pro-Trump material to them online.
 
