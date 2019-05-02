@@ -29,7 +29,7 @@ The reason why our data are revealed is we **“trust”** those institutions an
 
 ### Two main features of blockchain related to data safety
 
-1.Decentralization
+#### 1.Decentralization
 
 Decentralization describes the design of a database that isn’t managed by a central party. Instead, **peer-to-peer** interaction drives the system, as no third party is needed.
 
@@ -37,7 +37,7 @@ The decentralized nature of blockchain, with all data replicated on every comput
 
 （图片）
 
-2.Security------immutability
+#### 2.Security------immutability
 
 Immutability guarantees that data cannot be altered once added to the blockchain. Immutability on the blockchain is powered by “proof of work” cryptographic processes that require huge amounts of computing power to add new information to the system, as well as an almost inconceivably high amount needed to “game” the system. For a hacker, if he wants to hijack our data, he only has to attack several computers in the centralized institution in the traditional situation. However, he has to attack 51% computers in the system using blockchain.
 
@@ -45,24 +45,24 @@ Immutability guarantees that data cannot be altered once added to the blockchain
 
 ## Why does blockchain not become popular?
 
-1. Blockchain has an environmental cost
+### 1. Blockchain has an environmental cost
 
 Blockchain relies on immutability to maintain its security and establish consensus over a distributed system. In order to give a user permission to add data, complex algorithms must be run, which require quantities of computing power. Taking the blockchain of Bitcoin as an example, the computing power required to keep the network running consumes as much energy as was used by 159 of the world’s nations. Over 170 billion dollars are required to guarantee its current market capacity and security. Therefore, this huge environmental cost lower the blockchain development.
 
 （图片）
 
-2.Lack of regulation creates a risky environment
+### 2.Lack of regulation creates a risky environment
 
 Due to the lack of regulatory oversight, scams and market manipulation are common situation.
 There is always a chance that your blockchain might be attacked and if there is no related regulation to protect your right, you may have huge loss.Again, this is a consequence of the lack of regulatory oversight across the blockchain.
 
-3.Storage
+### 3.Storage
 
 The blockchain protocols are designed in such a way that each node should maintain the same copy of the blockchain and the blockchain should contain every transaction from the beginning of time. This means that any new device, in order to become a node in the blockchain, should download all the transactions right from the first block. 
 
 Bitcoin’s blockchain size is more than 100GB and Ethereum’s blockchain size is approximately 50GB. These are just financial transactions and these systems limit the number of transactions per second. Due to the replicated storage mechanism, every device should hold a copy of blockchain in order to be a part of the network and a simple device might not provide the demanded storage capacity.
 
-4.Hard to understand
+### 4.Hard to understand
 
 To be honest,for most people now,it is impossible to understand blockchain.
 
