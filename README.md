@@ -239,6 +239,10 @@ Ultimately, the thinking is that not every small transaction necessarily has to 
 [Plasma](http://www.plasma.io/)  
 [Lightning Network](https://en.wikipedia.org/wiki/Lightning_Network)  
 
+ <div align="center">
+<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/Onoffchain.jpg" width=512 height=512 />
+</div>
+
 #### Scalable Distributed Ledgers
 
 Blockchain technology is a subset under the general Distributed Ledger Technology (DLT) due to its distributed architecture. There are other forms of distributed ledgers that do not use the same data structure of organizing information (transactions) into chained, sequential blocks. The most popular form of distributed ledgers is a technology called the [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph).The solutions use DAG include IOTA,NANO,Byteball.
