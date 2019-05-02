@@ -20,7 +20,7 @@ Let’s review the biggest one------**the Facebook data breach**.
 After the data breach, Facebook’s market value declined about **50 billion** and Facebook might face **2 trillion** fine.
 
  <div align="center">
-<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/Facebook%20Scandal.jpg" width=512 height=1024 />
+<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/Facebook%20Scandal.jpg" width=512 height=800 />
 </div>
 
 ## Why blockchain?
