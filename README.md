@@ -1,4 +1,4 @@
-# How to use blockchain to protect data safety more efficiently?————Discussion in aspect of how to solve blockchain trilemma
+# How to use blockchain to protect data safety more efficiently?———Discussion in aspect of how to solve blockchain trilemma
 ## Background
 
 In big data era, privacy data safety gradually draws public attention. We’re handing over more and more personal data to companies that store this information in **centralized** databases, which serve as a magnet for hackers looking to hijack our identities and steal our money.
@@ -37,7 +37,7 @@ The decentralized nature of blockchain, with all data replicated on every comput
 
 （图片）
 
-#### 2.Security————Immutability
+#### 2.Security———Immutability
 
 Immutability guarantees that data cannot be altered once added to the blockchain. Immutability on the blockchain is powered by “proof of work” cryptographic processes that require huge amounts of computing power to add new information to the system, as well as an almost inconceivably high amount needed to “game” the system. For a hacker, if he wants to hijack our data, he only has to attack several computers in the centralized institution in the traditional situation. However, he has to attack 51% computers in the system using blockchain.
 
@@ -97,7 +97,7 @@ The only way that these numbers can be improved is if they work on their scalabi
 
 (图片）
 
-## Blockchain trilemma————Decentralization, Security, Scalability
+## Blockchain trilemma———Decentralization, Security, Scalability
 
 A trilemma is a difficult choice from three options, each of which is (or appears) unacceptable or unfavourable. Many observe that blockchains have their own trilemma – one that is preventing mass adoption.
 
@@ -110,3 +110,35 @@ The **ideal blockchain** would have all three of the characteristics：
 Unfortunately, **we can’t have them all**
 
 Blockchain Trilemma is a term put up by Ethereum founder Vitalik Buterin that addresses the problem of how to develop a blockchain technology that offers scalability, decentralization and security, without compromising either one.Vitalik believes that at a fundamental level, Blockchains can only **achieve 2 out of 3** of these traits at one time.
+
+(图片)
+
+### How do we annlyze blockchain trilemma logically?
+
+A briefly process of prove is shown as follows.For complete proof,please check:[Proof of blockchain trilemma]()
+
+Firstly, we need to know two basic theories about distributed systems———FLP theory and CAP theory.
+
+FLP theory proves that in a completely asynchronous distributed system, no completely asynchronous consensus protocol can tolerate even a single unannounced process death. 
+
+For the complete proof, please check:[Proof of FLP theory](https://www.the-paper-trail.org/post/2008-08-13-a-brief-tour-of-flp-impossibility/)
+
+CAP theory proves it is impossible to get all three merits in a distributed system: **consistency, availability, and partition tolerance** at the same time.
+
+（图片）
+
+For the complete proof, please check:[Proof of CAP theoty](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
+
+We can prove that for three properties in blockchain trilemma------security, decentralization, scalability------are related to the properties in CAP theory, which is consistency, availability, and partition tolerance. Specifically, we can prove:
+
+—Security needs Consistency
+—Scalability needs Availability 
+—Decentralization needs Partition-tolerant
+
+
+Then we combine these two trilemma together:
+
+（图片）
+
+We prove that the blockchain trilemma exists theoritically 
+
