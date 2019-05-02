@@ -174,6 +174,10 @@ We prove that the blockchain trilemma exists theoritically
 
 Recently, a lot of solution have been created.We divide these solutions into two aspects———algorithm and structural change
 
+ <div align="center">
+<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/Solution.png" width=512 height=512 />
+</div>
+
 ### From the aspect of algorithm 
 
 Traditional blockchain like bitcoin use PoW.However,creating a block and reaching consensus is time-consuming under PoW.Therefore, alternatives of PoW are created.
