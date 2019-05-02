@@ -116,7 +116,7 @@ For bitcoin and ethereum to compete with more popular systems like visa and payp
 The only way that these numbers can be improved is if they work on their scalability.
 
  <div align="center">
-<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/Speed.PNG" width=512 height=256 />
+<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/Speed.PNG" width=1024 height=512 />
 </div>
 
 ## Blockchain trilemma———Decentralization, Security, Scalability
