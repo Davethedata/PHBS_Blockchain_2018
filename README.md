@@ -20,7 +20,7 @@ Let’s review the biggest one------**the Facebook data breach**.
 After the data breach, Facebook’s market value declined about **50 billion** and Facebook might face **2 trillion** fine.
 
  <div align="center">
-<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/Facebook%20Scandal.jpg" width=512 height=256 />
+<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/Facebook%20Scandal.jpg" width=512 height=1024 />
 </div>
 
 ## Why blockchain?
@@ -65,10 +65,10 @@ Immutability guarantees that data cannot be altered once added to the blockchain
 
 #### 1. Blockchain has an environmental cost
 
-Blockchain relies on immutability to maintain its security and establish consensus over a distributed system. In order to give a user permission to add data, complex algorithms must be run, which require quantities of computing power. Taking the blockchain of Bitcoin as an example, the computing power required to keep the network running consumes as much energy as was used by 159 of the world’s nations. Over 170 billion dollars are required to guarantee its current market capacity and security. Therefore, this huge environmental cost lower the blockchain development.
+Blockchain relies on immutability to maintain its security and establish consensus over a distributed system. In order to give a user permission to add data, complex algorithms must be run, which require quantities of computing power. Taking the blockchain of Bitcoin as an example, the computing power required to keep the network running consumes as much energy as was used by **159** of the world’s nations. Over **170 billion** dollars are required to guarantee its current market capacity and security. Therefore, this huge environmental cost lower the blockchain development.
 
  <div align="center">
-<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/Nations.PNG" width=512 height=256 />
+<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/Nations.PNG" width=1024 height=512 />
 </div>
 
 #### 2.Lack of regulation creates a risky environment
