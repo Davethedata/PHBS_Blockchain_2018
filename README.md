@@ -76,14 +76,15 @@ If we briefly review the pros and cons of blockchain:
 
 A blockchain is essentially a linked-list of blocks containing data, with some constraints around it:
 
-  -Blocks can't be modified once created.  
-  -A person want to change data may need download all blockchain which have big data size.  
-  -There are specific rules (for consensus) for putting data inside a blockchain and a long time to reach consensus.  
+  -Blocks can't be modified once created  
+  -A person want to change data may need download all blockchain which have big data size  
+  -There are specific rules (for consensus) for putting data inside a blockchain and a long time to reach consensus  
 
 These constraints, when implemented in a form of a protocol, yield a data-recording mechanism with some highly desirable characteristics:
--No single point of control or failure
--Immutability of data
--Decentralized and trustless system
+
+  -No single point of control or failure  
+  -Immutability of data  
+  -Decentralized and trustless system  
 
 Due to these advantages, blockchain systems are suited for the scenarios where mutually mistrusting parties have to exchange value digitally. However, these advantages don't come for free. If we look at it from a different angle, a blockchain is a slow, immutable database with very high redundancy, which means it is expensive to maintain and also hard to scale. 
 
