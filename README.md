@@ -43,3 +43,47 @@ Immutability guarantees that data cannot be altered once added to the blockchain
 
 （图片）
 
+## Why does blockchain not become popular?
+
+1. Blockchain has an environmental cost
+
+Blockchain relies on immutability to maintain its security and establish consensus over a distributed system. In order to give a user permission to add data, complex algorithms must be run, which require quantities of computing power. Taking the blockchain of Bitcoin as an example, the computing power required to keep the network running consumes as much energy as was used by 159 of the world’s nations. Over 170 billion dollars are required to guarantee its current market capacity and security. Therefore, this huge environmental cost lower the blockchain development.
+
+（图片）
+
+2.Lack of regulation creates a risky environment
+
+Due to the lack of regulatory oversight, scams and market manipulation are common situation.
+There is always a chance that your blockchain might be attacked and if there is no related regulation to protect your right, you may have huge loss.Again, this is a consequence of the lack of regulatory oversight across the blockchain.
+
+3.Storage
+
+The blockchain protocols are designed in such a way that each node should maintain the same copy of the blockchain and the blockchain should contain every transaction from the beginning of time. This means that any new device, in order to become a node in the blockchain, should download all the transactions right from the first block. 
+
+Bitcoin’s blockchain size is more than 100GB and Ethereum’s blockchain size is approximately 50GB. These are just financial transactions and these systems limit the number of transactions per second. Due to the replicated storage mechanism, every device should hold a copy of blockchain in order to be a part of the network and a simple device might not provide the demanded storage capacity.
+
+4.Hard to understand
+
+To be honest,for most people now,it is impossible to understand blockchain.
+
+## Scalability
+
+We have talked about the advantages and disadvantage of blockchain. Besides, the biggest and most important problem for blockchain is based on it pros and cons. We call it **scalability**.
+
+**Let's explain what scalability is:**
+
+If we briefly review the pros and cons of blockchain:
+
+A blockchain is essentially a linked-list of blocks containing data, with some constraints around it:
+-Blocks can't be modified once created.
+-A person want to change data may need download all blockchain which have big data size.
+-There are specific rules (for consensus) for putting data inside a blockchain and a long time to reach consensus.
+
+These constraints, when implemented in a form of a protocol, yield a data-recording mechanism with some highly desirable characteristics:
+-No single point of control or failure
+-Immutability of data
+-Decentralized and trustless system
+
+Due to these advantages, blockchain systems are suited for the scenarios where mutually mistrusting parties have to exchange value digitally. However, these advantages don't come for free. If we look at it from a different angle, a blockchain is a slow, immutable database with very high redundancy, which means it is expensive to maintain and also hard to scale. 
+
+Scalability will influence the speed of data input and access. In addition, it will lower the whole society’s efficiency.
