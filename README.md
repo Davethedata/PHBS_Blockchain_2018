@@ -62,7 +62,7 @@ The blockchain protocols are designed in such a way that each node should mainta
 
 Bitcoin’s blockchain size is more than 100GB and Ethereum’s blockchain size is approximately 50GB. These are just financial transactions and these systems limit the number of transactions per second. Due to the replicated storage mechanism, every device should hold a copy of blockchain in order to be a part of the network and a simple device might not provide the demanded storage capacity.
 
-### 4.Hard to understand
+#### 4.Hard to understand
 
 To be honest,for most people now,it is impossible to understand blockchain.
 
@@ -89,3 +89,10 @@ If we briefly review the pros and cons of blockchain:
 Due to these advantages, blockchain systems are suited for the scenarios where mutually mistrusting parties have to exchange value digitally. However, these advantages don't come for free. If we look at it from a different angle, a blockchain is a slow, immutable database with very high redundancy, which means it is expensive to maintain and also hard to scale. 
 
 Scalability will influence the speed of data input and access. In addition, it will lower the whole society’s efficiency.
+
+### Take credit card transaction as an example:
+
+For bitcoin and ethereum to compete with more popular systems like visa and paypal, they need to seriously step up their game when it comes to transaction times. While paypal manages 193 transactions per second and visa manages 1667 transactions per second, Ethereum does only 20 transactions per second while bitcoin manages a whopping 7 transactions per second!.
+The only way that these numbers can be improved is if they work on their scalability.
+
+(图片）
