@@ -5,7 +5,9 @@ In big data era, privacy data safety gradually draws public attention. We’re h
 Recently, lots of data breach brings giant loss to the society. Globally, the **average** cost of a data breach is **$3.62 million**.
 
 Let’s review the biggest one------**the Facebook data breach**.
+
 （图片）
+
 **March 18th, 2018:** 50 million Facebook profiles were harvested for Cambridge Analytica in a major data scandal. This number was revised to 87 million Facebook profiles later. Moveover, the data sold to Cambridge Analytica was then used to develop “psychographic” profiles of people and deliver pro-Trump material to them online.
 
 **March 20th,2018:** The Federal Trade Commission (FTC) opened an investigation into whether Facebook had violated a settlement reached with the U.S. government agency in 2011 over user privacy protections.
