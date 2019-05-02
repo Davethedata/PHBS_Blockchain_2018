@@ -153,7 +153,7 @@ CAP theory proves it is impossible to get all three merits in a distributed syst
 <img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/CAP.png" width=512 height=256 />
 </div>
 
-For the complete proof, please check:[Proof of CAP theoty](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
+For the complete proof, please check:[Proof of CAP theory](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 
 We can prove that for three properties in blockchain trilemma------security, decentralization, scalability------are related to the properties in CAP theory, which is consistency, availability, and partition tolerance. Specifically, we can prove:
 
