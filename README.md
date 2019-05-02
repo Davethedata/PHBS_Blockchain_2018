@@ -19,13 +19,19 @@ Let’s review the biggest one------**the Facebook data breach**.
 
 After the data breach, Facebook’s market value declined about **50 billion** and Facebook might face **2 trillion** fine.
 
+ <div align="center">
+<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/Facebook%20Scandal.jpg" width=512 height=256 />
+</div>
+
 ## Why blockchain?
 
 In big data era, more and more data are used to business analysis to make more money. Since public data are available but worthless, a person’s private data is precious to firms. A lot of firms pay a lot to those that have private money. Our private data are revealed unconsciously. Therefore, data safety is of vital importance for all of us.
 
 The reason why our data are revealed is we **“trust”** those institutions and give them our private data. However, they **“betray”** us for money. If we can have a **“trustless”** system, we won’t worry about the reveal of our privacy data. Nowadays, we call this **“trustless”** system------**BLOCKCHAIN**.
 
-(图片）
+ <div align="center">
+<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/Blockchain.jpg" width=512 height=256 />
+</div>
 
 ### Two main features of blockchain related to data safety
 
@@ -35,13 +41,25 @@ Decentralization describes the design of a database that isn’t managed by a ce
 
 The decentralized nature of blockchain, with all data replicated on every computer node within the database, means that any hacker trying to attack a single node — the “trusted” centralised institution’s database — is thwarted by the continual processing and recording of data on the other nodes.
 
-（图片）
+ <div align="center">
+<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/Centralized.png" width=512 height=256 />
+</div>
+
+ <div align="center">
+<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/Decentralized.png" width=512 height=256 />
+</div>
 
 #### 2.Security———Immutability
 
 Immutability guarantees that data cannot be altered once added to the blockchain. Immutability on the blockchain is powered by “proof of work” cryptographic processes that require huge amounts of computing power to add new information to the system, as well as an almost inconceivably high amount needed to “game” the system. For a hacker, if he wants to hijack our data, he only has to attack several computers in the centralized institution in the traditional situation. However, he has to attack 51% computers in the system using blockchain.
 
-（图片）
+ <div align="center">
+<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/CentralizedAttack.PNG" width=512 height=256 />
+</div> 
+
+ <div align="center">
+<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/DecentralizedAttack.PNG" width=512 height=256 />
+</div>
 
 ## Why does blockchain not become popular?
 
@@ -49,7 +67,9 @@ Immutability guarantees that data cannot be altered once added to the blockchain
 
 Blockchain relies on immutability to maintain its security and establish consensus over a distributed system. In order to give a user permission to add data, complex algorithms must be run, which require quantities of computing power. Taking the blockchain of Bitcoin as an example, the computing power required to keep the network running consumes as much energy as was used by 159 of the world’s nations. Over 170 billion dollars are required to guarantee its current market capacity and security. Therefore, this huge environmental cost lower the blockchain development.
 
-（图片）
+ <div align="center">
+<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/Nations.PNG" width=512 height=256 />
+</div>
 
 #### 2.Lack of regulation creates a risky environment
 
@@ -95,7 +115,9 @@ Scalability will influence the speed of data input and access. In addition, it w
 For bitcoin and ethereum to compete with more popular systems like visa and paypal, they need to seriously step up their game when it comes to transaction times. While paypal manages 193 transactions per second and visa manages 1667 transactions per second, Ethereum does only 20 transactions per second while bitcoin manages a whopping 7 transactions per second!.
 The only way that these numbers can be improved is if they work on their scalability.
 
-(图片）
+ <div align="center">
+<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/Speed.PNG" width=512 height=256 />
+</div>
 
 ## Blockchain trilemma———Decentralization, Security, Scalability
 
@@ -111,7 +133,9 @@ Unfortunately, **we can’t have them all**
 
 Blockchain Trilemma is a term put up by Ethereum founder Vitalik Buterin that addresses the problem of how to develop a blockchain technology that offers scalability, decentralization and security, without compromising either one.Vitalik believes that at a fundamental level, Blockchains can only **achieve 2 out of 3** of these traits at one time.
 
-(图片)
+ <div align="center">
+<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/BlockchainTrilemma.jpg" width=512 height=256 />
+</div>
 
 ### How do we annlyze blockchain trilemma logically?
 
@@ -125,7 +149,9 @@ For the complete proof, please check:[Proof of FLP theory](https://www.the-paper
 
 CAP theory proves it is impossible to get all three merits in a distributed system: **consistency, availability, and partition tolerance** at the same time.
 
-（图片）
+ <div align="center">
+<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/CAP.png" width=512 height=256 />
+</div>
 
 For the complete proof, please check:[Proof of CAP theoty](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 
@@ -138,7 +164,9 @@ We can prove that for three properties in blockchain trilemma------security, dec
 
 Then we combine these two trilemma together:
 
-（图片）
+ <div align="center">
+<img src="https://github.com/Davethedata/PHBS_Blockchain_2018/blob/master/FLP-CAP.png" width=512 height=256 />
+</div>
 
 We prove that the blockchain trilemma exists theoritically 
 
