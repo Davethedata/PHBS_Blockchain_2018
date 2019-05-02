@@ -45,18 +45,18 @@ Immutability guarantees that data cannot be altered once added to the blockchain
 
 ## Why does blockchain not become popular?
 
-### 1. Blockchain has an environmental cost
+#### 1. Blockchain has an environmental cost
 
 Blockchain relies on immutability to maintain its security and establish consensus over a distributed system. In order to give a user permission to add data, complex algorithms must be run, which require quantities of computing power. Taking the blockchain of Bitcoin as an example, the computing power required to keep the network running consumes as much energy as was used by 159 of the world’s nations. Over 170 billion dollars are required to guarantee its current market capacity and security. Therefore, this huge environmental cost lower the blockchain development.
 
 （图片）
 
-### 2.Lack of regulation creates a risky environment
+#### 2.Lack of regulation creates a risky environment
 
 Due to the lack of regulatory oversight, scams and market manipulation are common situation.
 There is always a chance that your blockchain might be attacked and if there is no related regulation to protect your right, you may have huge loss.Again, this is a consequence of the lack of regulatory oversight across the blockchain.
 
-### 3.Storage
+#### 3.Storage
 
 The blockchain protocols are designed in such a way that each node should maintain the same copy of the blockchain and the blockchain should contain every transaction from the beginning of time. This means that any new device, in order to become a node in the blockchain, should download all the transactions right from the first block. 
 
@@ -74,13 +74,13 @@ We have talked about the advantages and disadvantage of blockchain. Besides, the
 
 If we briefly review the pros and cons of blockchain:
 
-A blockchain is essentially a linked-list of blocks containing data, with some constraints around it:
+**A blockchain is essentially a linked-list of blocks containing data, with some constraints around it:**
 
   -Blocks can't be modified once created  
   -A person want to change data may need download all blockchain which have big data size  
   -There are specific rules (for consensus) for putting data inside a blockchain and a long time to reach consensus  
 
-These constraints, when implemented in a form of a protocol, yield a data-recording mechanism with some highly desirable characteristics:
+**These constraints, when implemented in a form of a protocol, yield a data-recording mechanism with some highly desirable characteristics:**
 
   -No single point of control or failure  
   -Immutability of data  
