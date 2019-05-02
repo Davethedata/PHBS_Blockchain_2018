@@ -1,4 +1,4 @@
-# How to use blockchain to protect data safety more efficiently?------Discussion in aspect of how to solve blockchain trilemma
+# How to use blockchain to protect data safety more efficiently?——————Discussion in aspect of how to solve blockchain trilemma
 ## Background
 
 In big data era, privacy data safety gradually draws public attention. We’re handing over more and more personal data to companies that store this information in **centralized** databases, which serve as a magnet for hackers looking to hijack our identities and steal our money.
@@ -37,7 +37,7 @@ The decentralized nature of blockchain, with all data replicated on every comput
 
 （图片）
 
-#### 2.Security------immutability
+#### 2.Security——————Immutability
 
 Immutability guarantees that data cannot be altered once added to the blockchain. Immutability on the blockchain is powered by “proof of work” cryptographic processes that require huge amounts of computing power to add new information to the system, as well as an almost inconceivably high amount needed to “game” the system. For a hacker, if he wants to hijack our data, he only has to attack several computers in the centralized institution in the traditional situation. However, he has to attack 51% computers in the system using blockchain.
 
@@ -76,15 +76,15 @@ If we briefly review the pros and cons of blockchain:
 
 **A blockchain is essentially a linked-list of blocks containing data, with some constraints around it:**
 
-  -Blocks can't be modified once created  
-  -A person want to change data may need download all blockchain which have big data size  
-  -There are specific rules (for consensus) for putting data inside a blockchain and a long time to reach consensus  
+  —Blocks can't be modified once created  
+  —A person want to change data may need download all blockchain which have big data size  
+  —There are specific rules (for consensus) for putting data inside a blockchain and a long time to reach consensus  
 
 **These constraints, when implemented in a form of a protocol, yield a data-recording mechanism with some highly desirable characteristics:**
 
-  -No single point of control or failure  
-  -Immutability of data  
-  -Decentralized and trustless system  
+  —No single point of control or failure  
+  —Immutability of data  
+  —Decentralized and trustless system  
 
 Due to these advantages, blockchain systems are suited for the scenarios where mutually mistrusting parties have to exchange value digitally. However, these advantages don't come for free. If we look at it from a different angle, a blockchain is a slow, immutable database with very high redundancy, which means it is expensive to maintain and also hard to scale. 
 
@@ -97,15 +97,15 @@ The only way that these numbers can be improved is if they work on their scalabi
 
 (图片）
 
-## Blockchain trilemma------Decentralization, Security, Scalability
+## Blockchain trilemma——————Decentralization, Security, Scalability
 
 A trilemma is a difficult choice from three options, each of which is (or appears) unacceptable or unfavourable. Many observe that blockchains have their own trilemma – one that is preventing mass adoption.
 
 The **ideal blockchain** would have all three of the characteristics：
 
-——Decentralization to build a trustless system  
-——Scalability to increase speed and efficiency  
-——Scalability to increase speed and efficiency  
+  —Decentralization to build a trustless system  
+  —Scalability to increase speed and efficiency  
+  —Scalability to increase speed and efficiency  
 
 Unfortunately, **we can’t have them all**
 
